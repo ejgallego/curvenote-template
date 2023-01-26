@@ -1,0 +1,11 @@
+version: 1
+site:
+  title: Welcome to Curvenote
+  projects:
+    - slug: web
+      path: content/web
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains: []

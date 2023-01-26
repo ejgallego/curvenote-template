@@ -1,0 +1,10 @@
+version: 1
+project:
+  title: Welcome to Curvenote
+  description: ''
+  remote: 072X8LmsJju1ojV1fykl
+  authors: []
+  name: web
+  license:
+    content: CC-BY-4.0
+    code: MIT
